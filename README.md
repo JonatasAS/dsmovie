@@ -1,5 +1,7 @@
-# dsmovie
-#DevSuperior
+#DSMovie
+
+##DevSuperior
+
 **Projeto da semana Spring React, no qual foi desenvolvido um projeto de avalização de filmes**.
 
 **Desenvolvido do inicio ao fim backend e frontend com integração na nuvem**. 
