@@ -13,7 +13,6 @@ _*Projeto da semana Spring React, no qual foi desenvolvido um projeto de avaliza
    * Spring Tools Suite
    * Java
    * API REST
-   * Banco de Dados
    * H2
    * PostgreSQL
    * Postman
