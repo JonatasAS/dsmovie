@@ -31,6 +31,8 @@ _*Projeto da semana Spring React, no qual foi desenvolvido um projeto de avaliza
 
 ![Capturar](https://user-images.githubusercontent.com/73995947/159993684-2e4d7c7a-485c-4691-917a-942500dd2541.PNG)
 
+---
+
 **Segunda tela do filme selecionado para avalização**
 
 ![2](https://user-images.githubusercontent.com/73995947/159993701-622524d8-469d-4349-94a9-0d6e8bf292a1.PNG)
