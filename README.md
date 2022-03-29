@@ -1,38 +1,84 @@
-DSMovie 🖖
----
-DevSuperior
----
-_*Projeto da semana Spring React, no qual foi desenvolvido um projeto de avalização de filmes*_.
+# DSMovie 🖖
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JonatasAS/dsmovie/blob/main/LICENSE) 
 
-**Desenvolvido do inicio ao fim backend e frontend com integração na nuvem**. 
+# Sobre o projeto
 
-*Link do projeto*:  https://jas-desmovie.netlify.app/
+https://jas-desmovie.netlify.app
 
-* *Utilizando*:
+DSMovie é uma aplicação full stack web e mobile construída durante na **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-   * Spring Tools Suite
-   * Java
-   * API REST
-   * H2
-   * PostgreSQL
-   * Postman
-   * VS Code
-   * React
-   * Node.js
-   * Git
-   * Github
-   * Typescript
-   * Heroku
-   * Netlify
----   
-# Projeto finalizado
+A aplicação consiste em uma pesquisa de preferência de filmes, onde os dados são coletados, e depois são listados, armezenados no banco e apresantos no score dos filmes.
 
-**Primeira tela de seleção dos filmes**
+## Layout mobile
+![Mobile 1](https://github.com/JonatasAS/assets/blob/main/mobile1.jpg) ![Mobile 2](https://github.com/JonatasAS/assets/blob/main/mobile2.jpg)
 
-![Capturar](https://user-images.githubusercontent.com/73995947/159993684-2e4d7c7a-485c-4691-917a-942500dd2541.PNG)
+## Layout web
+![Web 1](https://github.com/JonatasAS/assets/blob/main/web1.PNG)
 
----
+![Web 2](https://github.com/JonatasAS/assets/blob/main/web2%20(1).PNG)
 
-**Segunda tela do filme selecionado para avalização**
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/JonatasAS/assets/blob/main/dsmovie-dominio.png)
 
-![2](https://user-images.githubusercontent.com/73995947/159993701-622524d8-469d-4349-94a9-0d6e8bf292a1.PNG)
+## Salvar avaliação
+![Salvando avalizações](https://github.com/JonatasAS/assets/blob/main/dsmovie-objs.png)
+
+## Padrão de camadas adotado
+![Camadas](https://github.com/JonatasAS/assets/blob/main/modelodecamadas.png)
+
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJs
+- Bootstrap
+
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql, h2 database
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/JonatasAS/dsmovie
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
+
+## Front end web
+Pré-requisitos: npm / yarn
+
+```bash
+# clonar repositório
+git clone https://github.com/JonatasAS/dsmovie
+
+# entrar na pasta do projeto front end web
+cd front-web
+
+# instalar dependências
+yarn install
+
+# executar o projeto
+yarn start
+```
+
+# Autor
+
+Jonatas Amorim Silva
+
+https://www.linkedin.com/in/jonatas-amorim-cref25/
+
+
