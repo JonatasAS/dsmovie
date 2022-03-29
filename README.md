@@ -5,7 +5,7 @@
 
 https://jas-desmovie.netlify.app
 
-DSMovie é uma aplicação full stack web e mobile construída durante na **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSMovie é uma aplicação full stack web construída durante na **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma pesquisa de preferência de filmes, onde os dados são coletados, e depois são listados, armezenados no banco e apresantos no score dos filmes.
 
